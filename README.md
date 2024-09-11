@@ -44,6 +44,6 @@ With experience ranging from managing critical databases at the Ministry of Inte
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef-khalifa&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="youssef-khalifa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssef-khalifa&show_icons=true&locale=en&theme=gruvbox" alt="youssef-khalifa" />B</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssef-khalifa&show_icons=true&locale=en&theme=gruvbox" alt="youssef-khalifa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-khalifa&theme=gruvbox" alt="youssef-khalifa" /></p>
