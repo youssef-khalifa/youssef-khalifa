@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Youssef Khalifa but call me kami</h1>
 <h3 align="center">I’m a passionate MERN Stack Web Developer</h3>
+👋 Hi, I’m Youssef Khalifa!
+I’m a passionate MERN Stack Web Developer with a strong background in computer science and database management. I specialize in b
+
 <img align="right" alt="Coding" width="400" src="https://github.com/youssef-khalifa/youssef-khalifa/blob/main/download.png">
 
 
