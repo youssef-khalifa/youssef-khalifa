@@ -13,14 +13,14 @@ With experience ranging from managing critical databases at the Ministry of Inte
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/youssef-khalifa?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
     <a href="https://github.com/youssef-khalifa?tab=repositories">
-        <img alt="repositories" title="Number of repositories" src="https://img.shields.io/badge/repositories-39-ff0000?style=for-the-badge&logo=repo&logoColor=white"/>
+        <img alt="repositories" title="Number of repositories" src="https://img.shields.io/badge/repositories-39-d9534f?style=for-the-badge&logo=repo&logoColor=white"/>
     </a>
     <!-- Commits badge placeholder (manual update needed) -->
     <a href="https://github.com/youssef-khalifa">
-        <img alt="commits" title="Number of commits" src="https://img.shields.io/badge/Commits-Update%20Manually-ff8c00?style=for-the-badge&logo=commit&logoColor=white"/>
+        <img alt="commits" title="Number of commits" src="https://img.shields.io/badge/Commits-Update%20Manually-fca203?style=for-the-badge&logo=commit&logoColor=white"/>
     </a>
     <a href="https://youssef-khalifa.netlify.app/">
-        <img alt="portfolio" title="Visit my portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-Visit%20Now!-5e2a8d?style=for-the-badge&logo=link&logoColor=white"/>
+        <img alt="portfolio" title="Visit my portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-Visit%20Now!-6f42c1?style=for-the-badge&logo=link&logoColor=white"/>
     </a>
 </p>
 
