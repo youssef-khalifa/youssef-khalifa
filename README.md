@@ -21,6 +21,10 @@ With experience ranging from managing critical databases at the Ministry of Inte
     <a href="https://youssef-khalifa.netlify.app/">
         <img alt="portfolio" title="Visit my portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-Visit%20Now!-blue?style=for-the-badge&logo=link&logoColor=white"/>
     </a>
+    <a href="https://github.com/youssef-khalifa?tab=repositories">
+    <img alt="repositories" title="Number of repositories" src="https://img.shields.io/github/repos/${youssef-khalifa}?color=brightgreen&style=for-the-badge&logo=repo&logoColor=white"/>
+</a>
+
 </p>
 
 
