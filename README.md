@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Khalifa but call me kami</h1>
 <h3 align="center">I’m a passionate MERN Stack Web Developer</h3>
 
-👋 Hi, I’m Youssef Khalifa!
-
-I’m a passionate MERN Stack Web Developer with a strong background in computer science and database management. I specialize in building full-stack web applications, delivering engaging user interfaces and seamless server-side integrations.
+A MERN Stack Web Developer with a strong background in computer science and database management. Specializing in building full-stack web applications, I focus on delivering engaging user interfaces and seamless server-side integrations.
 
 With experience ranging from managing critical databases at the Ministry of Interior in Egypt to crafting intuitive platforms like Natours and The Wild Oasis, I’m committed to creating robust, scalable applications. I enjoy solving complex problems and continuously expanding my knowledge of emerging technologies.
 
