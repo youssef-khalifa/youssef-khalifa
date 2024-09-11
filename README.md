@@ -13,7 +13,7 @@ With experience ranging from managing critical databases at the Ministry of Inte
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/youssef-khalifa?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
     <a href="https://github.com/youssef-khalifa?tab=repositories">
-        <img alt="repositories" title="Number of repositories" src="https://img.shields.io/badge/repositories-XX-brightgreen?style=for-the-badge&logo=repo&logoColor=white"/>
+        <img alt="repositories" title="Number of repositories" src="https://img.shields.io/badge/repositories-39-crimson?style=for-the-badge&logo=repo&logoColor=white"/>
     </a>
     <!-- Commits badge placeholder (manual update needed) -->
     <a href="https://github.com/youssef-khalifa">
