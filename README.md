@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Youssef Khalifa or you can call me kami</h1>
+<h1 align="center">Hi 👋, I'm Youssef Khalifa but call me kami</h1>
 <h3 align="center">I’m a passionate MERN Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-khalifa&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-khalifa" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssef-khalifa" alt="youssef-khalifa" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/kamithe13th" target="blank"><img src="https://img.shields.io/twitter/follow/kamithe13th?logo=twitter&style=for-the-badge" alt="kamithe13th" /></a> </p>
 
 - 🔭 I’m currently working on [Kami's store](https://github.com/youssef-khalifa/kami-store)
 
@@ -32,3 +36,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef-khalifa&show_icons=true&locale=en&layout=compact" alt="youssef-khalifa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssef-khalifa&show_icons=true&locale=en" alt="youssef-khalifa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-khalifa&" alt="youssef-khalifa" /></p>
