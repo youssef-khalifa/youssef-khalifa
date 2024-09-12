@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Youssef Khalifa but call me kami</h1>
+<h1 align="center">Hi 👋, I'm Youssef Khalifa</h1>
 <h3 align="center">I’m a passionate MERN Stack Web Developer</h3>
 
 A MERN Stack Web Developer with a strong background in computer science and database management. Specializing in building full-stack web applications, I focus on delivering engaging user interfaces and seamless server-side integrations.
